@@ -1,0 +1,14 @@
+.cursor{
+    cursor: pointer;
+}
+.list_style{
+    list-style-type: none;
+}
+.page-item.active .page-link {  
+    background-color: rgb(32, 163, 32) !important;  
+    border-color:  rgb(32, 163, 32) !important;  
+}
+.btn-focus:focus {
+    outline: none;
+    box-shadow: none;
+  }

@@ -1,0 +1,11 @@
+.text-left {
+    text-align: left !important;
+}
+
+.text-hover:hover {
+    background-color: darkgray;
+}
+
+.height {
+    height: 800px;
+}
